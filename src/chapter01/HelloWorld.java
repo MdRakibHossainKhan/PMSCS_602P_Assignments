@@ -1,4 +1,4 @@
-package class_01;
+package chapter01;
 
 public class HelloWorld {
 
