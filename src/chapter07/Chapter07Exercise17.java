@@ -68,5 +68,4 @@ public class Chapter07Exercise17 {
 
 		return guessDigits;
 	}
-
 }
